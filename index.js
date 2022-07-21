@@ -25,3 +25,8 @@ for (let i = 0; i < games; i++) {
 console.log('Games played:', games)
 console.log('Orig won:', origWon)
 console.log('Switch won:', switchWon)
+
+// Monty Hall Problem
+// Games played: 10000
+// Orig won: 3368
+// Switch won: 6632
